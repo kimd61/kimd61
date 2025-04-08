@@ -1,16 +1,36 @@
-## Hi there 👋
+``` javascript
+const daniel = {
+  code: ["javascript", "C++", "python", "html", "css", "java"],
+  school: ["university of colorado denver"],
+  tools: ["vs code", "visual studio", "git", "github", "pycharm", "intellij", "idle"],
+  education: {
+    major: "computer science",
+    minor: "information systems"
+  }
+};
+```
 
 <!--
-**kimd61/kimd61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` HTML
+<h1 id="name">daniel</h1>
+<ul class="code">
+  <li>javascript</li>
+  <li>c++</li>
+  <li>python</li>
+  <li>html</li>
+  <li>css</li>
+</ul>
+<ul class="tools">
+  <li>vs code</li>
+  <li>git</li>
+  <li>github</li>
+  <li>pycharm</li>
+</ul>
+<h2 id="school">university of colorado denver</h2>
+<ul class="education">
+  <li>major: computer science</li>
+  <li>minor: information systems</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```
 -->
