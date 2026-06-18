@@ -1,3 +1,6 @@
+<h2> hi, i'm daniel!
+<br>
+<br>
 ``` javascript
 const daniel = {
   code: ["javascript", "c++", "python", "html", "css", "java"],
